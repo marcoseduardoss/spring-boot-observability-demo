@@ -1,4 +1,4 @@
-## Demo de Observabilidade em Framework Web Java (Spring Boot) - v3
+## Demo de Observabilidade em Framework Web Java (Spring Boot)
 
 Esta versão usa:
 
